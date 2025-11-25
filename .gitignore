@@ -1,0 +1,87 @@
+## Node
+node_modules/
+
+## Build outputs
+dist/
+build/
+out/
+storybook-static/
+.parcel-cache/
+
+## Vite
+.vite/
+
+## TypeScript
+*.tsbuildinfo
+
+## Storybook
+.storybook/
+.cache/storybook/
+
+## Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+## Env files
+.env
+.env.local
+.env.*.local
+
+## Coverage
+coverage/
+
+## Caches
+.cache/
+.sass-cache/
+
+## Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+## OS files
+.DS_Store
+Thumbs.db
+
+## Yarn PnP
+.pnp.*
+
+## Misc
+.eslintcache
+.turbo/
+.next/
+.vercel/
+.firebase/
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+*storybook.log
+storybook-static
